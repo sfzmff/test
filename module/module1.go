@@ -1,5 +1,5 @@
 package module
 
 func Print() string {
-	return "Hello, World!"
+	return "Hello, World!Happy New Year!"
 }
