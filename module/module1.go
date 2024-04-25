@@ -1,5 +1,5 @@
 package module
 
-func Test() string {
+func Print() string {
 	return "Hello, World!"
 }
