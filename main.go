@@ -6,5 +6,4 @@ import (
 
 func main() {
 	module.Test()
-	module.Print()
 }
