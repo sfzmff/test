@@ -1,5 +1,9 @@
 package module
 
-func Print() string {
-	return "Hello, World!Happy New Year!"
+func Print(option int) string {
+	if option == 1 {
+		return "Hello, World!"
+	} else {
+		return "Happy New Year!"
+	}
 }

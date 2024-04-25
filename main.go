@@ -1,9 +1,11 @@
 package main
 
 import (
+	"fmt"
+
 	"test/module"
 )
 
 func main() {
-	module.Print()
+	fmt.Print(module.Print(1))
 }
