@@ -6,4 +6,5 @@ import (
 
 func main() {
 	module.Test()
+	module.Testss()
 }
